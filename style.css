@@ -40,7 +40,7 @@ img {
 }
 
 
-.header {
+header {
     height: 100px;
     width: 100%;
     background-color: #E5DCC3;
@@ -126,7 +126,7 @@ input[type=checkbox]:checked ~ nav {
 }
 
 @media (max-width: 580px) {
-    .header {
+    header {
         height: auto;
         min-height: 80px;
         flex-direction: row;
@@ -154,7 +154,7 @@ input[type=checkbox]:checked ~ nav {
 }
 
 
-.footer {
+footer {
     width: 100%;
     height: 150px;
     margin-top: 30px;
